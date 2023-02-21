@@ -4,7 +4,6 @@ __________________
 |  Includes:     |
 __________________
 
--> Essay assignment from OB, good work.
 
 -> Various small/excersice-like mini-projects in C++(Foundation year)
 
