@@ -7,10 +7,8 @@ __________________
 
 -> Various small/excersice-like mini-projects in C++(Foundation year)
 
+-> Stencil Game (tasks and final game)
+
 -> Computer Programming (module folder-contains the theory/books) (Foundation year)
-
--> Applications Development app project (Uni)
-
--> Databases project (Access/C++) (Uni)
 
 -> Spreadsheets/Dashboards (excell) (Uni)
