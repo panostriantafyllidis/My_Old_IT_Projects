@@ -1,0 +1,2 @@
+﻿  Section_D_exam_OOP.cpp
+c:\users\takis t\documents\visual_projects\section_d_exam_oop\section_d_exam_oop\section_d_exam_oop.cpp(13): error C4700: uninitialized local variable 'y' used

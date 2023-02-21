@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Section_C_exam_Vectors.cpp
+c:\users\takis t\documents\visual_projects\section_c_exam_vectors\section_c_exam_vectors\section_c_exam_vectors.cpp(36): error C4700: uninitialized local variable 'max' used

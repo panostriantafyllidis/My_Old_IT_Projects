@@ -1,0 +1,2 @@
+﻿  Section_D_exam_OOP.cpp
+C:\Users\takis\OneDrive\Documents\My_IT_Projects\Stencyl_and_CPP_Projects\Visual_Projects\Section_D_exam_OOP\Section_D_exam_OOP\Section_D_exam_OOP.cpp(13): error C4700: uninitialized local variable 'y' used
